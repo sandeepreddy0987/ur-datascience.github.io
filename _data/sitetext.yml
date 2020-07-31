@@ -1,6 +1,6 @@
 header:
-    title: Welcome to our Data Science Laboratory Website!
-    text: The hub of data science research and development at the University of Regina
+    title: The hub of data science research and development at the University of Regina
+    text: Welcome to our Data Science Laboratory Website!
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
