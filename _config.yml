@@ -15,7 +15,8 @@
 remote_theme: UR-DataScience/agency-jekyll-theme
 
 url    : "http://urdatascience.ca" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+#baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Data Science Laboratory
 email      : a.r.manashty@gmail.com #this is also the email contact forms will go to
