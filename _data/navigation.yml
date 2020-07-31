@@ -1,11 +1,11 @@
 nav:
-  - title: "Services"
+  - title: "Activities"
     section: services
 
-  - title: "Portfolio"
+  - title: "Research Projects"
     section: portfolio
     
-  - title: "About"
+  - title: "Collaborations"
     section: timeline
 
   - title: "Team"
@@ -14,5 +14,3 @@ nav:
   - title: "Contact"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
