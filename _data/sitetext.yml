@@ -1,27 +1,27 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to our Data Science Laboratory Website!
+    text: The hub of data science research and development at the University of Regina
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Activities"
+    text: "Learn more about the activities at the Data Science Lab"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Research"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-book-open #find more at https://fontawesome.com/icons
+      - title: "Development"
+        desc: "We help in development of data solutions from multi-platform mobile and web apps to cloud solutions and dashboards."
         icon: fas fa-laptop       
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Research Projects"
+    text: "Current and Past Research Projects."
     section: portfolio
     
 
