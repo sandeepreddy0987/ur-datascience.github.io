@@ -26,8 +26,8 @@ portfolio:
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "Collaborations" 
+    text: "Learn about the partners and advisors to the Data Science Lab"
     section: timeline
     events:
       - title: "Our Humble Beginnings"
