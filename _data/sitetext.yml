@@ -113,7 +113,7 @@ team:
         role: "Graduate Student (M.Sc.)"
         image: assets/img/team/Vignesh_Shankar.jpg
         social:
-          - url: https://www.linkedin.com/in/vigneshshankar30/
+          - url: https://www.linkedin.com/in/vigneshshankar30/ 
             icon: fab fa-linkedin-in
       - name: "Ghazal (Baran) Erfani"
         role: "Undergraduate Researcher"
