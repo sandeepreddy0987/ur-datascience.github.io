@@ -1,8 +1,8 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Multivariate Health Temporal Forecasting
+subtitle: Understanding the future in healthcare enables us to prevent or prepare for the worst unprecedented events.
+image: https://manashty.files.wordpress.com/2016/08/heal-only.png
+alt: 
 
 caption:
   title: Threads
