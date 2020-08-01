@@ -5,14 +5,15 @@ image: https://manashty.files.wordpress.com/2016/08/heal-only.png
 alt: 
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Health Forecasting
+  subtitle: Multivariate Health Temporal Forecasting
+  thumbnail: https://manashty.files.wordpress.com/2016/08/heal-only.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Publications:
+**to be added here**
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: January 2018
+- Research Type: Core Research
+- Category: Research Projects
 
