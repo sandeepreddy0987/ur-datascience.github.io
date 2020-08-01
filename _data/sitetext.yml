@@ -85,27 +85,43 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Mahtab Farokhfari"
-        role: "Lab Member"
-        image: assets/img/team/Mahtab_Farokhfari.jpg
       - name: "Dr. Alireza Manashty"
         role: "Director"
         image: assets/img/team/Alireza_Manashty.jpg
         social:
           - url: https://linkedin.com/manashty/
             icon: fab fa-linkedin-in
-      - name: "B.Sc. Ghazal(Baran) Erfani"
-        role: "Lab Instructor"
+      - name: "Mahtab Farokhfari"
+        role: "MBA Student"
+        image: assets/img/team/Mahtab_Farokhfari.jpg            
+        social:
+          - url: https://www.linkedin.com/in/mahtab-farokhfari-6190801ab/
+            icon: fab fa-linkedin-in
+      - name: "Vineel Gannu"
+        role: "Graduate Student (M.Sc.)"
+        image: assets/img/team/Vineel_Gannu.jpg
+        social:
+          - url: https://www.linkedin.com/in/mahtab-farokhfari-6190801ab/
+            icon: fab fa-linkedin-in
+      - name: "Sandeep Tandra"
+        role: "Graduate Student (M.Sc.)"
+        image: assets/img/team/Sandeep_Tandra.jpg
+        social:
+          - url: https://www.linkedin.com/in/sandeeptandra/
+            icon: fab fa-linkedin-in
+      - name: "Vignesh Shankar"
+        role: "Graduate Student (M.Sc.)"
+        image: assets/img/team/Vignesh_Shankar.jpg
+        social:
+          - url: https://www.linkedin.com/in/vigneshshankar30/
+            icon: fab fa-linkedin-in
+      - name: "Ghazal (Baran) Erfani"
+        role: "Undergraduate Researcher"
         image: assets/img/team/Baran_Erfani.jpg
         social:
           - url: https://www.linkedin.com/in/baranerf/
             icon: fab fa-linkedin-in
-      - name: "Sandeep Tandra"
-        role: "Lab Member"
-        image: assets/img/team/Sandeep_Tandra.jpg
-      - name: "Vineel Gannu"
-        role: "Lab Member"
-        image: assets/img/team/Vineel_Gannu.jpg
+      
 
 contact:
     title: "Contact Us"
