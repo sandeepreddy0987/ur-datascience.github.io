@@ -100,30 +100,42 @@ team:
           image: assets/img/team/Alireza_Manashty.jpg
           social:
             - url: https://linkedin.com/manashty/
-              icon: fab fa-linkedin-in
-        - name: "Mahtab Farokhfari"
-          role: "MBA Student"
-          image: assets/img/team/Mahtab_Farokhfari.jpg
+              icon: fab fa-linkedin-in        
+        
+        
+    - interns:
+      title: "Graduate Students"
+      text: "default text"
+#      subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+      - name: "Sandeep Tandra"
+          role: "Graduate Student (M.Sc.)"
+          image: assets/img/team/Sandeep_Tandra.jpg
           social:
-            - url: https://www.linkedin.com/in/mahtab-farokhfari-6190801ab/
-              icon: fab fa-linkedin-in
+            - url: https://www.linkedin.com/in/sandeeptandra/
+              icon: fab fa-linkedin-in              
         - name: "Vineel Gannu"
           role: "Graduate Student (M.Sc.)"
           image: assets/img/team/Vineel_Gannu.jpg
           social:
             - url: https://www.linkedin.com/in/mahtab-farokhfari-6190801ab/
               icon: fab fa-linkedin-in
-        - name: "Sandeep Tandra"
-          role: "Graduate Student (M.Sc.)"
-          image: assets/img/team/Sandeep_Tandra.jpg
-          social:
-            - url: https://www.linkedin.com/in/sandeeptandra/
-              icon: fab fa-linkedin-in
+        
         - name: "Vignesh Shankar"
           role: "Graduate Student (M.Sc.)"
           image: assets/img/team/Vignesh_Shankar.jpg
           social:
             - url: https://www.linkedin.com/in/vigneshshankar30/
+              icon: fab fa-linkedin-in
+    - volunteers:
+      title: "Research Students"
+      text: "default text"
+#      subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+      members:
+        - name: "Mahtab Farokhfari"
+          role: "MBA Student"
+          image: assets/img/team/Mahtab_Farokhfari.jpg
+          social:
+            - url: https://www.linkedin.com/in/mahtab-farokhfari-6190801ab/
               icon: fab fa-linkedin-in
         - name: "Ghazal (Baran) Erfani"
           role: "Undergraduate Researcher"
@@ -131,26 +143,6 @@ team:
           social:
             - url: https://www.linkedin.com/in/baranerf/
               icon: fab fa-linkedin-in
-    - interns:
-      title: "Interns"
-      text: "default text"
-#      subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-      members:
-        - name: "Intern person"
-          role: "Intern"
-          social:
-            - url: http://ursatascience.ca
-              icon: fab fa-grav
-    - volunteers:
-      title: "Volunteers"
-      text: "default text"
-#      subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-      members:
-        - name: "Volunteer person"
-          role: "Volunteer"
-          social:
-            - url: http://ursatascience.ca
-              icon: fab fa-grav
 
 contact:
   title: "Contact Us"
