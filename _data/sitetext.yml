@@ -70,12 +70,12 @@ clients:
   max-height: 100px
   horizontal-scrolling: "yes" #"yes/no"
   list:
-    - title: "NVIDIA"
+    - title: "Nvidia"
       url: https://www.nvidia.com/
       logo: assets/img/clients/nvidia.png
-    - title: "designmodo"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/designmodo.jpg
+    - title: "Kaggle"
+      url: https://www.kaggle.com
+      logo: assets/img/clients/Kaggle.png
     - title: "themeforest"
       url: https://github.com/raviriley/agency-jekyll-theme
       logo: assets/img/clients/themeforest.jpg
