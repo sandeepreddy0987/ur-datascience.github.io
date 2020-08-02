@@ -100,20 +100,20 @@ team:
           image: assets/img/team/Alireza_Manashty.jpg
           social:
             - url: https://linkedin.com/manashty/
-              icon: fab fa-linkedin-in        
-        
+              icon: fab fa-linkedin-in
         
     - interns:
       title: "Graduate Students"
       text: "default text"
 #      subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-      - members:
+      members:
         - name: "Sandeep Tandra"
           role: "Graduate Student (M.Sc.)"
           image: assets/img/team/Sandeep_Tandra.jpg
           social:
             - url: https://www.linkedin.com/in/sandeeptandra/
-              icon: fab fa-linkedin-in              
+              icon: fab fa-linkedin-in 
+              
         - name: "Vineel Gannu"
           role: "Graduate Student (M.Sc.)"
           image: assets/img/team/Vineel_Gannu.jpg
