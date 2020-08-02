@@ -65,7 +65,7 @@ about:
 
 clients:
   title: Our Happy Clients
-  text: default subtitle
+  text: Meet our amazing clients
   section: clients
   max-height: 100px
   horizontal-scrolling: "yes" #"yes/no"
@@ -76,12 +76,10 @@ clients:
     - title: "Kaggle"
       url: https://www.kaggle.com
       logo: assets/img/clients/Kaggle.png
-    - title: "themeforest"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/themeforest.jpg
-    - title: "Creative Market"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/creative-market.jpg
+    - title: "Mitacs"
+      url: https://www.mitacs.ca/en
+      logo: assets/img/clients/Mitacs.png
+
 
 team:
   section: team
