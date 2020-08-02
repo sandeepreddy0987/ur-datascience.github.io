@@ -132,22 +132,20 @@ team:
     - interns:
       title: "Interns"
       text: "default text"
-      subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+#      subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
       members:
         - name: "Intern person"
           role: "Intern"
-          image: assets/img/team/Alireza_Manashty.jpg
           social:
             - url: http://ursatascience.ca
               icon: fab fa-grav
     - volunteers:
       title: "Volunteers"
       text: "default text"
-      subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+#      subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
       members:
         - name: "Volunteer person"
           role: "Volunteer"
-          image: assets/img/team/Alireza_Manashty.jpg
           social:
             - url: http://ursatascience.ca
               icon: fab fa-grav
