@@ -15,9 +15,9 @@ services:
       - title: "Development"
         desc: "We help in development of data solutions from multi-platform mobile and web apps to cloud solutions and dashboards."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Training"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-chalkboard-teacher
 
 portfolio:
     title: "Research Projects"
@@ -81,7 +81,7 @@ clients:
 
 team:
     title: "OUR AMAZING TEAM"
-    text: "This text is to help your site visitors with pressing questions."
+    text: "Take a closer look into our amazing team."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
@@ -121,6 +121,8 @@ team:
         social:
           - url: https://www.linkedin.com/in/baranerf/
             icon: fab fa-linkedin-in
+    button: Join us
+    buttonlink: "#" # "#{section}" or "URL/page link"
       
 
 contact:
