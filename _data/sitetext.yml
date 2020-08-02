@@ -70,9 +70,9 @@ clients:
   max-height: 100px
   horizontal-scrolling: "yes" #"yes/no"
   list:
-    - title: "envato"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/envato.jpg
+    - title: "NVIDIA"
+      url: https://www.nvidia.com/
+      logo: assets/img/clients/nvidia.png
     - title: "designmodo"
       url: https://github.com/raviriley/agency-jekyll-theme
       logo: assets/img/clients/designmodo.jpg
@@ -149,9 +149,6 @@ team:
           social:
             - url: http://ursatascience.ca
               icon: fab fa-grav
-
-
-
 
 contact:
   title: "Contact Us"
