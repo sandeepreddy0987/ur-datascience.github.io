@@ -107,7 +107,8 @@ team:
       title: "Graduate Students"
       text: "default text"
 #      subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-      - name: "Sandeep Tandra"
+      - members:
+        - name: "Sandeep Tandra"
           role: "Graduate Student (M.Sc.)"
           image: assets/img/team/Sandeep_Tandra.jpg
           social:
