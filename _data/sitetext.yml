@@ -1,6 +1,8 @@
 header:
-  title: The hub of data science research at the [U of Regina](http://uregina.ca)
-  text: Data Science Laboratory
+  title: Data Science Laboratory
+  titleanimation: flip-down # optional
+  text: The hub of data science research at the [U of Regina](http://uregina.ca)
+  textanimation: flip-down # optional
   button: Tell Me More
   buttonlink: "#services" # "#{section}" or "URL/page link"
 
