@@ -63,7 +63,7 @@ about:
 
 clients:
     title: Our Happy Clients
-    subtitle: default subtitle
+    text: default subtitle
     section: clients
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
