@@ -14,12 +14,15 @@ services:
     - title: "Research"
       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       icon: fas fa-book-open #find more at https://fontawesome.com/icons
+      animation: fade-up-right
     - title: "Development"
       desc: "We help in development of data solutions from multi-platform mobile and web apps to cloud solutions and dashboards."
       icon: fas fa-laptop
+      animation: fade-down
     - title: "Training"
       desc: "Your description here, full **Markdown** support"
       icon: fas fa-chalkboard-teacher
+      animation: fade-up-left
 
 portfolio:
   title: "Research Projects"
