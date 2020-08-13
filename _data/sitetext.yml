@@ -66,7 +66,7 @@ timeline:
   end: "Be Part <br> of Our <br> Story!"
   subtext: We are here to help you solve your data science problems by providing state-of-the-art business solutions that fits your IT ecosystem. Still in doubt? Give us a try.
   button: Contact us # optional
-  buttonlink: "#" # "URL/page link"
+  buttonlink: "mailto:manashty@outlook.com" # "URL/page link" optional
 
 
 about:
