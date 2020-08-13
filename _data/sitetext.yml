@@ -35,28 +35,28 @@ timeline:
   text: "Learn about the partners and advisors to the Data Science Lab"
   section: timeline
   events:
-    - title: "Our Humble Beginnings"
+    - title: "DEPtH lab"
       year: "2009-2011"
       desc: "Lorem ipsum dolor as sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
       image: assets/img/timeline/1.jpg
       alt:
       align: left
       animation: fade-left # optional
-    - title: "An Agency is Born"
+    - title: "Krate company"
       year: "March 2011"
       desc: "Lorem ipsum dolor sit asaamet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
       image: assets/img/timeline/2.jpg
       alt:
       align: right
       animation: fade-right # optional
-    - title: "Jekyll Theme is created"
+    - title: "Computer Generated Solutions company"
       year: "2019"
       desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
       image: assets/img/timeline/3.jpg
       alt: image alt text
       #align: #default is left
       animation: fade-left # optional
-    - title: "Title"
+    - title: "Research Labs"
       year: "2009-2011"
       desc: "Your description here, **Markdown** is fully supported."
       image: assets/img/timeline/4.jpg
