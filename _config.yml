@@ -33,7 +33,7 @@ collections:
   portfolio:
   blog:
 
-markdown: markdown
+markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
