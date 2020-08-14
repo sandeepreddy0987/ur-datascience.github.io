@@ -30,6 +30,12 @@ portfolio:
   section: portfolio
 
 
+blog:
+  title: "Blog"
+  text: "Last blog!"
+  section: blog
+
+
 timeline:
   title: "Collaborations"
   text: "Learn about the partners and advisors to the Data Science Lab"
