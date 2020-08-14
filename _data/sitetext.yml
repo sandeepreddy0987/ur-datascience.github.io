@@ -34,6 +34,9 @@ blog:
   title: "Blog"
   text: "Last blog!"
   section: blog
+  button: More posts... # optional
+  buttonlink: "" # "URL/page link" optional
+
 
 
 timeline:
