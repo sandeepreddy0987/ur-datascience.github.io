@@ -31,8 +31,9 @@ analytics:
 
 collections:
   portfolio:
+  blog:
 
-markdown: kramdown
+markdown: markdown
 
 plugins:
   - jekyll-remote-theme
