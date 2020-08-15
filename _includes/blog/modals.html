@@ -1,0 +1,44 @@
+<!-- Blog Modals -->
+{% for post in site.blog %}
+<div class="portfolio-modal modal fade" id="post{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl"></div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="modal-body">
+                            <!-- post Details Go Here -->
+                            <h2 class="text-uppercase">{{ post.title }}</h2>
+                            <p class="item-intro text-muted">{{ post.subtitle }}</p>
+                            <img class="img-fluid d-block mx-auto" src="{{ post.image }}" alt="{{ post.alt }}">
+                            <p>{{ post.content | markdownify }}</p>
+                            <div class="col-lg-4">
+                                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                                    <i class="fas fa-times"></i>
+                                    Close
+                                </button>
+                            </div>
+                            {%- if post.link -%}
+                            <div class="col-lg-4">
+                                <a href="{{ post.url }}">
+                                    <button class="btn btn-info" type="button">
+                                        <i class="fas fa-times"></i>
+                                        See full post
+                                    </button>
+                                </a>
+                            </div>
+                            {%- endif -%}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}
+<!-- End Blog Modals -->

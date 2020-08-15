@@ -1,10 +1,10 @@
 nav:
   - title: "Activities"
-    section: services
+    section: activities
 
   - title: "Research Projects"
-    section: portfolio
-    
+    section: research
+
   - title: "Collaborations"
     section: timeline
 

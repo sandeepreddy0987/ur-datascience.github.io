@@ -4,9 +4,8 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/header-bg-04.jpg"
-contact-image: "../img/map-image.png"
+header-image: "../img/header/header00.jpg"
+contact-image: "../img/site/contact.png"
 
-
-#Video Customization
-#Comming soon!
+#Font Awesome icon for portfolio grid when an item is hovered over
+#portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
