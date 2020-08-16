@@ -1,7 +1,8 @@
 <!-- Blog Modals -->
 {% for post in site.blog %}
-{% if forloop.index <= 6 %}
-<div class="portfolio-modal modal fade" id="post{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+{% for index in site.data.blog.index %}
+{% if index == post.caption.code %}
+<div class="blog-modal modal fade" id="post{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -41,5 +42,6 @@
     </div>
 </div>
 {% endif %}
+{% endfor %}
 {% endfor %}
 <!-- End Blog Modals -->

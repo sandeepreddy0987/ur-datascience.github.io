@@ -33,7 +33,7 @@ url    : "http://urdatascience.ca" # the base hostname & protocol for your site,
 
 
 # Build settings
-theme: jekyll-agency
+# theme: jekyll-agency
 # remote_theme: UR-DataScience/Custom-Jekyll-theme
 plugins:
   - jekyll-feed

@@ -7,13 +7,14 @@ date: Jan 14, 2020
 categories: jekyll update
 
 
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/blog/03-full.jpg
 alt: 
 
-caption: #what displays in the portfolio grid:
-  title: Example0
-  subtitle: subtitle
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+caption: #what displays in the blog grid:
+    code: 1
+    title: Example0
+    subtitle: subtitle
+    thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
 ---
 
 Use this area to describe your project. **Markdown** supported.

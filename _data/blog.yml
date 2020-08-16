@@ -3,3 +3,4 @@ text: "Last blog!"
 section: blog
 button: More posts... # optional
 buttonlink: "/blog" # "URL/page link" optional
+index: [1, 2, 3, 4, 5, 6]
