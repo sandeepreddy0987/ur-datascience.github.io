@@ -7,7 +7,7 @@ date: Jan 14, 2020
 categories: jekyll update
 
 
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/blog/03-full.jpg
+image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
 alt: 
 
 caption: #what displays in the blog grid:
