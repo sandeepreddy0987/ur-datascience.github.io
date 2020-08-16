@@ -11,7 +11,7 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: 
 
 caption: #what displays in the portfolio grid:
-  title: Example
+  title: Example0
   subtitle: subtitle
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
 ---

@@ -1,5 +1,5 @@
 <!-- Blog Grid -->
-<section class="bg-light page-section" id="{{ site.data.sitetext.blog.section | default: " Blog" }}">
+<section class="bg-light page-section" id="{{ site.data.blog.section | default: " blog" }}">
 <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
@@ -13,20 +13,22 @@
     </div>
     <div class="row">
         {% for post in site.blog %}
-        <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#post{{ forloop.index }}">
-                <div class="portfolio-hover">
-                    <div class="portfolio-hover-content">
-                        <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
+            {% if forloop.index <= 6 %}
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a class="portfolio-link" data-toggle="modal" href="#post{{ forloop.index }}">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
+                            </div>
+                        </div>
+                        <img class="img-fluid" src="{{ post.caption.thumbnail }}" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>{{ post.caption.title }}</h4>
+                        <p class="text-muted">{{ post.caption.subtitle }}</p>
                     </div>
                 </div>
-                <img class="img-fluid" src="{{ post.caption.thumbnail }}" alt="">
-            </a>
-            <div class="portfolio-caption">
-                <h4>{{ post.caption.title }}</h4>
-                <p class="text-muted">{{ post.caption.subtitle }}</p>
-            </div>
-        </div>
+            {% endif %}
         {% endfor %}
     </div>
     {%- if site.data.blog.button -%}
