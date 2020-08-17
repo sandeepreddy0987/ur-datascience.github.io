@@ -6,11 +6,6 @@ header:
   button: Tell Me More
   buttonlink: "#services" # "#{section}" or "URL/page link"
 
-about:
-  title: "About Us"
-  text: "our story"
-  section: about
-
 
 footer:
   legal: "Privacy Policy"

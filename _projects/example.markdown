@@ -11,7 +11,7 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: 
 
 caption: #what displays in the blog grid:
-    code: salam
+    code: 0
     title: Example0
     subtitle: subtitle
     thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
