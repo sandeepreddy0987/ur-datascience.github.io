@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+    <!--Meta-->
+    {% include _partials/meta.html %}
+
     <!--Blog-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css"/>
@@ -26,7 +30,9 @@
         </button>
         <ul id="menu" class="hamburger-menu-overlay">
             <li><a href="{{ site.url }}" class="hamburger-menu-overlay-link">Home</a></li>
-            <li><a href="{{ site.url }}/legal" class="hamburger-menu-overlay-link">Privacy</a></li>
+            {% for nav in site.data.navigation %}
+            <li><a href="{{ site.url }}/#{{ nav.section }}" class="hamburger-menu-overlay-link">{{ nav.title }}</a></li>
+            {% endfor %}
         </ul>
     </div>
 </nav>

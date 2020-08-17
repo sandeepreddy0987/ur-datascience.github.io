@@ -1,11 +1,14 @@
 <!-- Timeline -->
-<section class="page-section" id="{{ site.data.sitetext.timeline.section | default: " about" }}">
+<section class="page-section" id="{{ site.data.timeline.section | default: "timeline" }}">
 <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">{{ site.data.timeline.title | markdownify | default:
-                "About" }}</h2>
-            <h3 class="section-subheading text-muted">{{ site.data.timeline.text | default: "timeline"}}</h3>
+            <h2 class="section-heading text-uppercase">
+                {{ site.data.timeline.title | markdownify | default: "About" }}
+            </h2>
+            <h3 class="section-subheading text-muted">
+                {{ site.data.timeline.text | default: "timeline"}}
+            </h3>
         </div>
     </div>
     <div class="row">
@@ -21,7 +24,7 @@
                         <img
                                 class="rounded-circle img-fluid"
                                 src="{{ event.image }}"
-                                alt="{{ event.alt | default: ""}}"
+                                alt="{{ event.alt | default: "" }}"
                         >
                     </div>
                     <div class="timeline-panel"
@@ -40,10 +43,10 @@
                 </li>
                 {% endfor %}
 
-                {% if site.data.sitetext.timeline.end %}
+                {% if site.data.timeline.end %}
                 <li class="timeline-inverted">
                     <div class="timeline-image">
-                        <h4>{{ site.data.sitetext.timeline.end }}</h4>
+                        <h4>{{ site.data.timeline.end }}</h4>
                     </div>
                 </li>
                 {% endif %}

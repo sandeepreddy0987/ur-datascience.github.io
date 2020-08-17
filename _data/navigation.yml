@@ -5,6 +5,9 @@ nav:
   - title: "Research Projects"
     section: research
 
+  - title: 'Blog'
+    section: blog
+
   - title: "Collaborations"
     section: timeline
 
@@ -13,4 +16,3 @@ nav:
 
   - title: "Contact"
     section: contact
-
