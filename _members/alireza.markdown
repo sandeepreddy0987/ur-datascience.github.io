@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /alireza/
+background: gray
 
 name:  Alireza Manashty
 role: Director
