@@ -14,7 +14,7 @@ email_text: 24 Hours
 number: "+1 (506) 898-2227"
 number_text: Text only
 
-address: Regina, Sk, CA
+address: 11-21 Christopher Crt, Saint John, NB, E2K 4L4, Canada
 address_text: Home
 
 born: August 25, 1987
@@ -22,77 +22,75 @@ born: August 25, 1987
 social:
     - url: https://linkedin.com/manashty/
       icon: ion-social-linkedin
-    - url: https://avaxvpn.com
-      icon: ion-social-twitter
       
 about: >-
- Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sodales. 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus pellentes que velit, quis consequat 
- nulla effi citur at. Maecenas sed massa tristique.Duis non volutpat arcu, eu mollis tellus. 
- Sed finibus aliquam neque sit amet sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus pellentes que velit, 
- quis consequat nulla effi citur at.Maecenas sed massa tristique.
+ Assistant Professor in Computer Science (Data Science & Machine Learning) at University of Regina (Tenure-track)
+ Director of Data Science Lab at University of Regina
+ 9+ years of practical problem solving using machine learning. Helping government and tech companies (e.g., Dell EMC) by providing predictive data science consultant. Awarded Microsoft MVP in Azure.
+ Full-stack data scientist: Provided complete solutions for problems, from business discovery, solution design, data acquisition (Sql/NoSql), modeling (R, Python, Java/C#, web), visualization, and deployment (local/cloud services)
+ Instructor & professional trainer: 7 years of teaching main CS undergraduate courses. Data science trainer.
  
 
 skills:
-    - title: Programming
-      level: 78
-    - title: Teaching
-      level: 63
+    - title: Machine Learning
+      level: 80
+    - title: Data Scinece
+      level: 80
+    - title: Big Data Analytics
+      level: 80
     - title: Management
-      level: 98
-    - title: Jekyll
-      level: 43
+      level: 80
       
 
 purple:
     title: Work Experience
     subtitle: PREVIOUS JOBS
     events:
-        - title: JUNIOR PROJECT MANAGER
-          subtitle: DESIGN STUDIO
-          status: MARCH 2015 - PRESENT
+        - title: Assistant Professor of Computer Science
+          subtitle: University of Regina
+          status: JULy 2019 - PRESENT
           text: >-
-            Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sodales. 
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus pellentes que velit, 
-            quis consequat nulla effi citur at. Maecenas sed massa tristique.Duis non volutpat arcu, 
-            eu mollis tellus. Sed finibus aliquam neque sit amet sodales.
+            Assistant Professor (Data Science & Machine Learning) at the Department of Computer Science, University of Regina
+            Director of Data Science Laboratory.
+            Winter 2020: 
           points:
-            - Duis non volutpat arcu, eu mollis tellus.
-            - Quis consequat nulla effi citur at.
-            - Sed finibus aliquam neque sit.
-        - title: JUNIOR PROJECT MANAGER
-          subtitle: DESIGN STUDIO
-          status: MARCH 2015 - PRESENT
+            - "CS 890 ES: Data Science Fundamentals (Graduate Course)"
+            - "CS 110: Programming and Problem Solving"
+        - title: Senior Data Services Specialist
+          subtitle: Irving Oil
+          status: AUGUST 2018 - JULY 2019
           text: >-
-            Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sodales. 
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus pellentes que velit, 
-            quis consequat nulla effi citur at. Maecenas sed massa tristique.Duis non volutpat arcu, 
-            eu mollis tellus. Sed finibus aliquam neque sit amet sodales.
-          points:
-            - Duis non volutpat arcu, eu mollis tellus.
-            - Quis consequat nulla effi citur at.
-            - Sed finibus aliquam neque sit.
+            Designing data integration solutions and architecture
+            Developing data science strategy for the corporate
+            Migrating data analytics platforms to cloud
+
 timeline:
     title: Education
     subtitle: ACADEMIC CAREER
     events:
-        - title: MASTER DEGREE IN SCIENCE
-          subtitle: UCLA - SCIENCE AND ENGINEERING
-          status: GRADUATED IN MAY 2010(2 YEARS)
+        - title: Degree NameDoctor of Philosophy (PhD) Field Of StudyComputer Science Grade4.1 
+          subtitle: University of New Brunswick
+          status: 2014 - 2019
           text: >-
-            Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sodales. 
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus pellentes que velit, 
-            quis consequat nulla effi citur at. Maecenas sed massa tristique.Duis non volutpat arcu, 
-            eu mollis tellus. Sed finibus aliquam neque sit amet sodales.
-        - title: MASTER DEGREE IN SCIENCE
-          subtitle: UCLA - SCIENCE AND ENGINEERING
-          status: GRADUATED IN MAY 2010(2 YEARS)
-          text: >-
-            Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sodales. 
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus pellentes que velit, 
-            quis consequat nulla effi citur at. Maecenas sed massa tristique.Duis non volutpat arcu, 
-            eu mollis tellus. Sed finibus aliquam neque sit amet sodales.
+            Activities and Societies: IEEE Student Branch Representative, 
+            Saint John Campus Science Rendezvous (Let's Talk Science) Speaker for 
+            Computer Science Fundy regional science fair representative of Computer Science Department
+        - title: Master of Science (MS) Field Of StudyArtificial Intelligence
+          subtitle: Shahrood University of Technology
+          status: 2010 – 2012
+          text: >- 
+            Activities and Societies: ACM Programming Competition Judge
+            Ranked 1st among classmates
+            
+footer:
+    - title: Happy Client
+      count: 128
+    - title: Project
+      count: 64
+    - title: Course
+      count: 32
+    - title: contribute
+      count: 16
 ---
 
 # Title
