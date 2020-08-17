@@ -30,7 +30,7 @@
         </button>
         <ul id="menu" class="hamburger-menu-overlay">
             <li><a href="{{ site.url }}" class="hamburger-menu-overlay-link">Home</a></li>
-            {% for nav in site.data.navigation %}
+            {% for nav in site.data.navigation.nav %}
             <li><a href="{{ site.url }}/#{{ nav.section }}" class="hamburger-menu-overlay-link">{{ nav.title }}</a></li>
             {% endfor %}
         </ul>
