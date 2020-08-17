@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /alireza/
 
 name:  Alireza Manashty
 role: Director
