@@ -1,5 +1,6 @@
 ---
 layout: person
+title: Alireza Manashty
 permalink: /members/alireza/
 
 name: Alireza Manashty
