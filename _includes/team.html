@@ -12,9 +12,13 @@
         {% for person in group.members %}
         <div class="col-sm-4">
             <div class="team-member">
+                {% if person.link %}
                 <a href="{{ person.link }}">
                     <img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
                 </a>
+                {% else %}
+                <img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
+                {% endif %}
                 <h4>{{ person.name }}</h4>
                 <p class="text-muted">{{ person.role }}</p>
                 <ul class="list-inline social-buttons">
