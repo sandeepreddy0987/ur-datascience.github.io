@@ -80,6 +80,14 @@
     {% endfor %}
 </main>
 
+<nav class="end-nav side-padding">
+    <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)"
+       href="{{ site.url }}" class="card home-card"
+       style="background-image: url( {{ site.url }}/assets/blog/img/grey-cloud.jpg )" rel="bookmark">
+        HOME
+    </a>
+</nav>
+
 <script
         defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js"
         integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx"
