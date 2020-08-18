@@ -15,10 +15,10 @@ email_text: 24 Hours
 number: "+1 (506) 898-2227"
 number_text: Text only
 
-address: 11-21 Christopher Crt, Saint John, NB, E2K 4L4, Canada
-address_text: Home
+address: CW 308.25, University of Regina, Regina, SK, Canada
+address_text: Work
 
-born: August 25, 1987
+born: 1988
 
 social:
     - url: https://linkedin.com/manashty/
