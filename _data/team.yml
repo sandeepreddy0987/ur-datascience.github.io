@@ -21,6 +21,7 @@ groups:
       - name: "Sandeep Tandra"
         role: "Graduate Student (M.Sc.)"
         image: assets/img/team/Sandeep_Tandra.jpg
+        link: http://urdatascience.ca/members/sandeep/
         social:
           - url: https://www.linkedin.com/in/sandeeptandra/
             icon: fab fa-linkedin-in

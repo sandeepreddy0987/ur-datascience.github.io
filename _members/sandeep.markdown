@@ -1,35 +1,31 @@
 ---
 layout: person
-title: Alireza Manashty
-permalink: /members/alireza/
+title: Sandeep Tandra
+permalink: /members/sandeep/
 
-name: Alireza Manashty
-role: Lab Director
+name: Sandeep Tandra
+role: Graduate Student
 
-image: "/assets/img/team/Alireza_Manashty.jpg"
-alt: alireza_manashty
+image: "/assets/img/team/Sandeep_Tandra.jpg"
+alt: Sandeep_Tandra
 
-email: a.r.manashty@gmail.com
+email: sandeep_tandra@gmail.com
 email_text: 24 Hours
 
-number: "+1 (506) 898-2227"
+number: "+1 (xxx) xxx-xxxx"
 number_text: Text only
 
 address: CW 308.25, University of Regina, Regina, SK, Canada
 address_text: Work
 
-born: 1988
+born: 1996
 
 social:
     - url: https://linkedin.com/manashty/
       icon: ion-social-linkedin
       
 about: >-
- Assistant Professor in Computer Science (Data Science & Machine Learning) at University of Regina (Tenure-track)
- Director of Data Science Lab at University of Regina
- 9+ years of practical problem solving using machine learning. Helping government and tech companies (e.g., Dell EMC) by providing predictive data science consultant. Awarded Microsoft MVP in Azure.
- Full-stack data scientist: Provided complete solutions for problems, from business discovery, solution design, data acquisition (Sql/NoSql), modeling (R, Python, Java/C#, web), visualization, and deployment (local/cloud services)
- Instructor & professional trainer: 7 years of teaching main CS undergraduate courses. Data science trainer.
+ Sandeep is a Master’s student at University of Regina from Department of Computer Science and is co-supervised by Dr. Katapally. Before joining the DEPtH Lab team, Sandeep was a research assistant in Data science Lab working on Machine Learning and Deep learning research areas. His primary research area is privacy preserving machine learning. After completing his Bachelors degree in Computer science, Sandeep obtained 1.5 years of work experience in the IT industry. He is currently a Mitacs intern for the Co-Away project.
  
 
 skills:
@@ -47,23 +43,16 @@ purple:
     title: Work Experience
     subtitle: PREVIOUS JOBS
     events:
-        - title: Assistant Professor of Computer Science
+        - title: xx
           subtitle: University of Regina
           status: JULy 2019 - PRESENT
           text: >-
-            Assistant Professor (Data Science & Machine Learning) at the Department of Computer Science, University of Regina
-            Director of Data Science Laboratory.
+            XXX
+            XXX of Data Science Laboratory.
             Winter 2020: 
           points:
-            - "CS 890 ES: Data Science Fundamentals (Graduate Course)"
-            - "CS 110: Programming and Problem Solving"
-        - title: Senior Data Services Specialist
-          subtitle: Irving Oil
-          status: AUGUST 2018 - JULY 2019
-          text: >-
-            Designing data integration solutions and architecture
-            Developing data science strategy for the corporate
-            Migrating data analytics platforms to cloud
+            - "XXX"
+            - "XXX"        
 
 timeline:
     title: Education
