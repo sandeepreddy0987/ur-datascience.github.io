@@ -75,7 +75,7 @@ timeline:
           status: 2014 – 2018
           text: >- 
             Awards and scholarship: Awarded scholarship for all 4 years. Listed in top 1% of the students.
-	    
+
 footer:
     - title: Happy Client
       count: 128
