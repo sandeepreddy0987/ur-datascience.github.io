@@ -7,70 +7,77 @@ name: Sandeep Tandra
 role: Graduate Student
 
 image: "/assets/img/team/Sandeep_Tandra.jpg"
-alt: Sandeep_Tandra
+alt: sandeep_tandra
 
-email: sandeep_tandra@gmail.com
+email: sandeep_tandra@outlook.com
 email_text: 24 Hours
 
-number: "+1 (xxx) xxx-xxxx"
+number: "+1 (306) 535-5452"
 number_text: Text only
 
-address: CW 308.25, University of Regina, Regina, SK, Canada
+address: Data Science Laboratory, CL 122, University of Regina, SK, CANADA.
 address_text: Work
 
 born: 1996
 
 social:
-    - url: https://linkedin.com/manashty/
+    - url: https://www.linkedin.com/in/sandeeptandra/
       icon: ion-social-linkedin
       
 about: >-
- Sandeep is a Master’s student at University of Regina from Department of Computer Science and is co-supervised by Dr. Katapally. Before joining the DEPtH Lab team, Sandeep was a research assistant in Data science Lab working on Machine Learning and Deep learning research areas. His primary research area is privacy preserving machine learning. After completing his Bachelors degree in Computer science, Sandeep obtained 1.5 years of work experience in the IT industry. He is currently a Mitacs intern for the Co-Away project.
+ Graduate student in Computer Science (Data Science & Machine Learning) at University of Regina
+ Research Assistant at Data Science Lab, University of Regina.
+ Skilled in C++, Python, C#, Java programming languages and Good knowledge in Database Systems, Data Structures and Algorithms, Operating Systems and more Computer Science concepts.
+ 1.5 years of industry experience.
+ Has an exponential learning rate in the field of Machine Learning and Data Science from 2019.
+ Currently working on privacy preserved Machine Learning.
+ 
+ 
  
 
 skills:
     - title: Machine Learning
-      level: 80
-    - title: Data Scinece
-      level: 80
-    - title: Big Data Analytics
-      level: 80
-    - title: Management
-      level: 80
+      level: 50
+    - title: Data Science
+      level: 70
+    - title: Data visualization
+	  level: 70
+	- title: Python
+	  level: 70
       
 
 purple:
     title: Work Experience
     subtitle: PREVIOUS JOBS
     events:
-        - title: xx
-          subtitle: University of Regina
-          status: JULy 2019 - PRESENT
+        - title: Graduate Intern
+          subtitle: Mitacs 
+          status: MAY 2020 - PRESENT
           text: >-
-            XXX
-            XXX of Data Science Laboratory.
-            Winter 2020: 
-          points:
-            - "XXX"
-            - "XXX"        
+            Working as intern for the Mitacs project funded by Lung Association of Saskatchewan, community members of Île-à-la-Crosse on developing applications for the health data analytics of the people in community.
+        - title: Systems Engineer
+          subtitle: Infosys pvt ltd
+          status: AUG 2018 - DEC 2019
+          text: >-
+            Part of backend support team deals with deploying the code to production, maintaining the servers, solving the infrastructural issues.
 
 timeline:
     title: Education
     subtitle: ACADEMIC CAREER
     events:
-        - title: Degree NameDoctor of Philosophy (PhD) Field Of StudyComputer Science Grade4.1 
-          subtitle: University of New Brunswick
-          status: 2014 - 2019
-          text: >-
-            Activities and Societies: IEEE Student Branch Representative, 
-            Saint John Campus Science Rendezvous (Let's Talk Science) Speaker for 
-            Computer Science Fundy regional science fair representative of Computer Science Department
-        - title: Master of Science (MS) Field Of StudyArtificial Intelligence
-          subtitle: Shahrood University of Technology
-          status: 2010 – 2012
+        - title: Master of Science 
+          subtitle: University of Regina
+          status: 2020- *
           text: >- 
-            Activities and Societies: ACM Programming Competition Judge
-            Ranked 1st among classmates
+            Activities: Research in Privacy Preserved Machine Learning
+			             Intern at Mitacs 
+        - title: Bachelor's degree in Field of Computer Science
+          subtitle: Lovely Professional University
+          status: 2014 – 2018
+          text: >- 
+            Awards and scholarship: Awarded scholarship for all 4 years
+			Listed in top 1% of the students.
+			
             
 footer:
     - title: Happy Client
