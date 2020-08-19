@@ -42,9 +42,9 @@ skills:
     - title: Data Science
       level: 50
     - title: Algorithm
-	  level: 80
-	- title: Python
-	  level: 50
+      level: 80
+    - title: Python
+      level: 50
 
 
 purple:
@@ -72,8 +72,7 @@ timeline:
           subtitle: University of Regina
           status: 2020- *
           text: >- 
-            GPA: 97/100; Course work includes programming with C/C++ and data structures
-	    Research Assistant at the Accelerated Data Science Lab
+            GPA: 97/100; Course work includes programming with C/C++ and data structures Research Assistant at the Accelerated Data Science Lab
         - title: Mathematics and Physics Diploma
           subtitle: Farzanegan Tehran
           status: 2013 – 2019
@@ -90,6 +89,7 @@ footer:
       count: 32
     - title: contribute
       count: 16
+      
 ---
 
 # Title
