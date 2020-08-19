@@ -49,7 +49,7 @@ cd ur-datascience.github.io
 bundle install
 ```
     
-- Run the code by command bellow; your site will run on your localhost port `4000`
+- Run the code by command bellow; your site will run on your ==localhost== port `4000`
 ```shell script
 bundle exec jekyll serve
 ```
@@ -98,3 +98,7 @@ TODO
 
 # LICENSE
 GNU GENERAL PUBLIC LICENSE
+
+# Note
+
+- Recommended to use Jetbrains' application to work on project(Feel free it's just a recommendation)
