@@ -25,14 +25,12 @@ social:
       icon: ion-social-linkedin
 
 about: >-
-B.Sc. Computer Science at the University of Regina with 4+ years of algorithm programming experience using
-C/C++ and Python. Research assistant at the University of Regina Accelerated Data Science Lab.
-Developer Intern: Intern at Farm Credit Canada (FCC) as a developer (summar 2020). Using JS, Java and Angular, Spring Boot frameworks developing a web-app.
-Data Science and Machine Learning: Data science research assistant helping to provide business data solutions
-at the Accelerated Data Science Lab of University of Regina since Nov 2019.
-Algorithm & Coding Enthusiast: Solved 400+ programming problems using C/C++ for computer Olympiad.
-Leader of an award-winning soccer robotic team in international and national venues. 
-
+    B.Sc. Computer Science at the University of Regina with 4+ years of algorithm programming experience using C/C++ and Python. 
+    Research assistant at the University of Regina Accelerated Data Science Lab. 
+    Developer Intern at Farm Credit Canada (FCC) as a developer (summar 2020). Using JS, Java and Angular, Spring Boot frameworks developing a web-app.
+    Data Science and Machine Learning research assistant helping to provide business data solutions at the Accelerated Data Science Lab of University of Regina since Nov 2019.
+    Algorithm & Coding Enthusiast; Solved 400+ programming problems using C/C++ for computer Olympiad.
+    Leader of an award-winning soccer robotic team in international and national venues. 
 
 
 
@@ -56,6 +54,9 @@ purple:
           status: MAY 2020 - PRESENT
           text: >-
             Working as developer intern doing web app development using Java, Spring boot, Java Script, and Angular.
+          points:
+            - developing a web application using Java, JS and Angular, Spring boot frameworks.
+            - Working as a student developer in costumer management solution team.
         - title: CS110 Lab Instructor
           subtitle: University of Regina
           status: May 2020 - Jun 2020
