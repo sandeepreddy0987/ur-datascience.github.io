@@ -51,6 +51,7 @@ groups:
             icon: fab fa-linkedin-in
       - name: "Ghazal (Baran) Erfani"
         role: "Undergraduate Researcher"
+        link: http://urdatascience.ca/members/baran/
         image: assets/img/team/Baran_Erfani.jpg
         social:
           - url: https://www.linkedin.com/in/baranerf/
