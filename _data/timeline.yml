@@ -8,14 +8,14 @@ events:
     image: assets/img/timeline/1.jpg
     alt:
     align: left
-    animation: fade-left # optional
+#    animation: fade-left # optional
   - title: "Krate company"
     year: "March 2011"
     desc: "Lorem ipsum dolor sit asaamet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
     image: assets/img/timeline/2.jpg
     alt:
     align: right
-    animation: fade-right # optional
+#    animation: fade-right # optional
 end: "Be Part <br> of Our <br> Story!"
 subtext: We are here to help you solve your data science problems by providing state-of-the-art business solutions that fits your IT ecosystem. Still in doubt? Give us a try.
 button: Contact us # optional
