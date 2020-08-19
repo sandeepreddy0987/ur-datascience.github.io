@@ -55,14 +55,17 @@ purple:
           text: >-
             Working as developer intern doing web app development using Java, Spring boot, Java Script, and Angular.
           points:
-            - developing a web application using Java, JS and Angular, Spring boot frameworks.
-            - Working as a student developer in costumer management solution team.
+            - "Developing a web application using Java, JS and Angular, Spring boot frameworks."
+            - "Working as a student developer in costumer management solution team."
         - title: CS110 Lab Instructor
           subtitle: University of Regina
           status: May 2020 - Jun 2020
           text: >-
             Lab sessions: Prepared and conducted weekly lab sessions for Programming and Problem Solving course.
             Evaluation and Support: Conducted assignments evaluations and provided workstation support to the students.
+          points:
+            - "Lab sessions: Prepared and conducted weekly lab sessions for Programming and Problem Solving course."
+            - "Evaluation and Support: Conducted assignments evaluations and provided workstation support to the students."
 
 
 timeline:
