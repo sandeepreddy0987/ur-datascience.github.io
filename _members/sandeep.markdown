@@ -41,9 +41,9 @@ skills:
     - title: Data Science
       level: 70
     - title: Data visualization
-	  level: 70
-	- title: Python
-	  level: 70
+      level: 70
+    - title: Python
+      level: 70
       
 
 purple:
@@ -54,12 +54,14 @@ purple:
           subtitle: Mitacs 
           status: MAY 2020 - PRESENT
           text: >-
-            Working as intern for the Mitacs project funded by Lung Association of Saskatchewan, community members of Île-à-la-Crosse on developing applications for the health data analytics of the people in community.
+            Working as intern for the Mitacs project funded by Lung Association of Saskatchewan, community members of Île-à-la-Crosse on 
+	    developing applications for the health data analytics of the people in community.
         - title: Systems Engineer
           subtitle: Infosys pvt ltd
           status: AUG 2018 - DEC 2019
           text: >-
-            Part of backend support team deals with deploying the code to production, maintaining the servers, solving the infrastructural issues.
+            Part of backend support team deals with deploying the code to production,
+	    maintaining the servers, solving the infrastructural issues.
 
 timeline:
     title: Education
@@ -69,14 +71,12 @@ timeline:
           subtitle: University of Regina
           status: 2020- *
           text: >- 
-            Activities: Research in Privacy Preserved Machine Learning
-			             Intern at Mitacs 
+            Activities: Research in Privacy Preserved Machine Learning Intern at Mitacs 
         - title: Bachelor's degree in Field of Computer Science
           subtitle: Lovely Professional University
           status: 2014 – 2018
           text: >- 
-            Awards and scholarship: Awarded scholarship for all 4 years
-			Listed in top 1% of the students.
+            Awards and scholarship: Awarded scholarship for all 4 years. Listed in top 1% of the students.
 			
             
 footer:
@@ -88,6 +88,7 @@ footer:
       count: 32
     - title: contribute
       count: 16
+
 ---
 
 # Title
