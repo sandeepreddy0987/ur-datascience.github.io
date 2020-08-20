@@ -32,7 +32,7 @@ about: >-
 skills:
     - title: Machine Learning
       level: 50
-    - title: Data Scinece
+    - title: Data Science
       level: 50
     - title: Big Data Analytics
       level: 50
