@@ -18,14 +18,14 @@ number_text: Text only
 address: 2 - 4114 Rae Street, Regina, SK, Canada
 address_text: Home
 
-born: November 1 1996
+born: 01-Nov-1996
 
 social:
     - url: https://www.linkedin.com/in/vineelgannu
       icon: ion-social-linkedin
       
 about: >-
- Masters student in Computer Science at University of Regina
+ Masters student in Computer Science at University of Regina.
  Machine learning and Data science enthusiast with more than a couple of years of IT experience and capable of designing and developing software applications by supporting a positive work environment that fosters team performance. 
  
 
